@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur Warmoes\\Desktop\\CSSE\\CSSE.csproj",
+      "projectUniqueName": "c:\\Users\\Arthur Warmoes\\Desktop\\CSSE\\1718-csse-code\\opdrachtweek3\\CSSE.csproj",
       "projectName": "CSSE",
-      "projectPath": "C:\\Users\\Arthur Warmoes\\Desktop\\CSSE\\CSSE.csproj",
+      "projectPath": "c:\\Users\\Arthur Warmoes\\Desktop\\CSSE\\1718-csse-code\\opdrachtweek3\\CSSE.csproj",
       "packagesPath": "C:\\Users\\Arthur Warmoes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur Warmoes\\Desktop\\CSSE\\obj\\",
+      "outputPath": "c:\\Users\\Arthur Warmoes\\Desktop\\CSSE\\1718-csse-code\\opdrachtweek3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
