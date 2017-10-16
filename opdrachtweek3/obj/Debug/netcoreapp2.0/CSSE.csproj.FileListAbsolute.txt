@@ -1,0 +1,10 @@
+C:\Users\Arthur Warmoes\Desktop\CSSE\bin\Debug\netcoreapp2.0\CSSE.deps.json
+C:\Users\Arthur Warmoes\Desktop\CSSE\bin\Debug\netcoreapp2.0\CSSE.runtimeconfig.json
+C:\Users\Arthur Warmoes\Desktop\CSSE\bin\Debug\netcoreapp2.0\CSSE.runtimeconfig.dev.json
+C:\Users\Arthur Warmoes\Desktop\CSSE\bin\Debug\netcoreapp2.0\CSSE.dll
+C:\Users\Arthur Warmoes\Desktop\CSSE\bin\Debug\netcoreapp2.0\CSSE.pdb
+C:\Users\Arthur Warmoes\Desktop\CSSE\obj\Debug\netcoreapp2.0\CSSE.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Warmoes\Desktop\CSSE\obj\Debug\netcoreapp2.0\CSSE.AssemblyInfoInputs.cache
+C:\Users\Arthur Warmoes\Desktop\CSSE\obj\Debug\netcoreapp2.0\CSSE.AssemblyInfo.cs
+C:\Users\Arthur Warmoes\Desktop\CSSE\obj\Debug\netcoreapp2.0\CSSE.dll
+C:\Users\Arthur Warmoes\Desktop\CSSE\obj\Debug\netcoreapp2.0\CSSE.pdb
