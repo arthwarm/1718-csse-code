@@ -1,0 +1,10 @@
+C:\Users\Arthur\CSSE\Week4\bin\Debug\netcoreapp2.0\Week4.deps.json
+C:\Users\Arthur\CSSE\Week4\bin\Debug\netcoreapp2.0\Week4.runtimeconfig.json
+C:\Users\Arthur\CSSE\Week4\bin\Debug\netcoreapp2.0\Week4.runtimeconfig.dev.json
+C:\Users\Arthur\CSSE\Week4\bin\Debug\netcoreapp2.0\Week4.dll
+C:\Users\Arthur\CSSE\Week4\bin\Debug\netcoreapp2.0\Week4.pdb
+C:\Users\Arthur\CSSE\Week4\obj\Debug\netcoreapp2.0\Week4.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\CSSE\Week4\obj\Debug\netcoreapp2.0\Week4.AssemblyInfoInputs.cache
+C:\Users\Arthur\CSSE\Week4\obj\Debug\netcoreapp2.0\Week4.AssemblyInfo.cs
+C:\Users\Arthur\CSSE\Week4\obj\Debug\netcoreapp2.0\Week4.dll
+C:\Users\Arthur\CSSE\Week4\obj\Debug\netcoreapp2.0\Week4.pdb
